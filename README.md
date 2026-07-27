@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Lucas, a 21-year-old certified developer passionate about coding! **[Discord Profil](https://discord.com/users/633779863840489484)**
+I'm Lucas, a 23-year-old certified developer passionate about coding! **[Discord Profil](https://discord.com/users/633779863840489484)**
 
   * Youtube - **[LucasB25](https://www.youtube.com/channel/UCOSm3qOwmnG7XaUfxWS0nuA)**
   * Instagram - **[lucasb.btts](https://www.instagram.com/lucas.btts)**
