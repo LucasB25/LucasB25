@@ -27,16 +27,16 @@
 ## 🚀 Featured Project — StaffMeets
 
 <div align="center">
-  <a href="https://beta.staffmeets.com">
+  <a href="https://staffmeets.com">
     <img src="https://img.shields.io/badge/StaffMeets-Collaborative%20Recruitment%20SaaS-10B981?style=for-the-badge&logo=sparkles&logoColor=white" alt="StaffMeets" />
   </a>
 </div>
 
 <br />
 
-> **[StaffMeets](https://beta.staffmeets.com)** is a collaborative recruitment SaaS platform designed for esports teams, web developers, content creators, gaming communities, and creative studios — featuring standardized candidate profiles, an ATS pipeline, interview scheduling, and Discord integration.
+> **[StaffMeets](https://staffmeets.com)** is a collaborative recruitment SaaS platform designed for esports teams, web developers, content creators, gaming communities, and creative studios — featuring standardized candidate profiles, an ATS pipeline, interview scheduling, and Discord integration.
 >
-> 🔗 **Website:** [beta.staffmeets.com](https://staffmeets.com) • **GitHub:** [@StaffMeets](https://github.com/StaffMeets) • **Discord:** [Join StaffMeets](https://discord.gg/gtdG3h5KQT)
+> 🔗 **Website:** [staffmeets.com](https://staffmeets.com) • **GitHub:** [@StaffMeets](https://github.com/StaffMeets) • **Discord:** [Join StaffMeets](https://discord.gg/gtdG3h5KQT)
 
 ---
 
