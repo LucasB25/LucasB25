@@ -2,7 +2,8 @@
 
 # Hi there, I'm Lucas! 👋
 
-**23-year-old Certified Developer passionate about coding & building modern web experiences**
+**23-year-old Certified Full-Stack Developer passionate about coding & building modern web experiences**  
+🚀 Founder & Lead Developer of **[StaffMeets](https://beta.staffmeets.com)**
 
 [![Profile Visits](https://komarev.com/ghpvc/?username=lucasb25&label=Profile%20Views&color=8a2be2&style=for-the-badge)](https://github.com/LucasB25)
 [![WakaTime](https://wakatime.com/badge/user/ab392564-41eb-46e2-b42a-215b59a0bfe4.svg?style=for-the-badge)](https://wakatime.com/@ab392564-41eb-46e2-b42a-215b59a0bfe4)
@@ -11,6 +12,8 @@
 
 ### 🌐 Connect with me & Support
 
+[![StaffMeets](https://img.shields.io/badge/StaffMeets-10B981?style=for-the-badge&logo=rocket&logoColor=white)](https://beta.staffmeets.com)
+[![StaffMeets Discord](https://img.shields.io/badge/Discord-StaffMeets-10B981?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gtdG3h5KQT)
 [![Discord Profile](https://img.shields.io/badge/Discord-LucasB25-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/633779863840489484)
 [![Panais Community](https://img.shields.io/badge/Server-Panais%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nvcznzhkTF)
 [![YouTube](https://img.shields.io/badge/YouTube-LucasB25-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOSm3qOwmnG7XaUfxWS0nuA)
@@ -21,15 +24,52 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🚀 Featured Project — StaffMeets
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,debian,git,js,ts,nodejs,react,html,css,mysql&perline=10" alt="Tech Stack" />
+  <a href="https://beta.staffmeets.com">
+    <img src="https://img.shields.io/badge/StaffMeets-Collaborative%20Recruitment%20SaaS-10B981?style=for-the-badge&logo=sparkles&logoColor=white" alt="StaffMeets" />
   </a>
-  <br />
-  <br />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+</div>
+
+<br />
+
+> **[StaffMeets](https://beta.staffmeets.com)** is a collaborative recruitment SaaS platform designed for esports teams, web developers, content creators, gaming communities, and creative studios — featuring standardized candidate profiles, an ATS pipeline, interview scheduling, and Discord integration.
+>
+> 🔗 **Website:** [beta.staffmeets.com](https://staffmeets.com) • **GitHub:** [@StaffMeets](https://github.com/StaffMeets) • **Discord:** [Join StaffMeets](https://discord.gg/gtdG3h5KQT)
+
+---
+
+## 🛠️ Languages, Frameworks & Tools
+
+<div align="center">
+
+#### 💻 Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,html,css,bash" alt="Languages" />
+</a>
+
+#### ⚡ Frameworks, Libraries & ORMs
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,vite,discordjs,prisma" alt="Frameworks & Libraries" />
+</a>
+<br />
+<img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle ORM" />
+<img src="https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="Auth.js" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+
+#### 🗄️ Databases & Cloud
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" alt="Databases" />
+</a>
+<br />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+
+#### 🔧 DevOps, Environment & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,docker,linux,debian,pnpm,npm,maven,vitest,postman" alt="Tools & DevOps" />
+</a>
+
 </div>
 
 ---
