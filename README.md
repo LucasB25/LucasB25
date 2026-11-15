@@ -3,7 +3,7 @@
 # Hi there, I'm Lucas! 👋
 
 **23-year-old Certified Full-Stack Developer passionate about coding & building modern web experiences**  
-🚀 Founder & Lead Developer of **[StaffMeets](https://beta.staffmeets.com)**
+🚀 Founder & Lead Developer of **[StaffMeets](https://staffmeets.com)**
 
 [![Profile Visits](https://komarev.com/ghpvc/?username=lucasb25&label=Profile%20Views&color=8a2be2&style=for-the-badge)](https://github.com/LucasB25)
 [![WakaTime](https://wakatime.com/badge/user/ab392564-41eb-46e2-b42a-215b59a0bfe4.svg?style=for-the-badge)](https://wakatime.com/@ab392564-41eb-46e2-b42a-215b59a0bfe4)
@@ -12,7 +12,7 @@
 
 ### 🌐 Connect with me & Support
 
-[![StaffMeets](https://img.shields.io/badge/StaffMeets-10B981?style=for-the-badge&logo=rocket&logoColor=white)](https://beta.staffmeets.com)
+[![StaffMeets](https://img.shields.io/badge/StaffMeets-10B981?style=for-the-badge&logo=rocket&logoColor=white)](https://staffmeets.com)
 [![StaffMeets Discord](https://img.shields.io/badge/Discord-StaffMeets-10B981?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gtdG3h5KQT)
 [![Discord Profile](https://img.shields.io/badge/Discord-LucasB25-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/633779863840489484)
 [![Panais Community](https://img.shields.io/badge/Server-Panais%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nvcznzhkTF)
@@ -77,8 +77,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasb25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasb25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=lucasb25&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=lucasb25&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 ---
@@ -86,9 +86,5 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasb25/lucasb25/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucasb25/lucasb25/output/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/lucasb25/lucasb25/output/snake.svg" width="100%" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/LucasB25/LucasB25/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
