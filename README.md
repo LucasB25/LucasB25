@@ -14,7 +14,7 @@
 
 [![StaffMeets](https://img.shields.io/badge/StaffMeets-10B981?style=for-the-badge&logo=rocket&logoColor=white)](https://staffmeets.com)
 [![StaffMeets Discord](https://img.shields.io/badge/Discord-StaffMeets-10B981?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/gtdG3h5KQT)
-[![Discord Profile](https://img.shields.io/badge/Discord-LucasB25-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/633779863840489484)
+[![Discord Profile](https://img.shields.io/badge/Discord-LucasB25-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1405603924001558730)
 [![Panais Community](https://img.shields.io/badge/Server-Panais%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nvcznzhkTF)
 [![YouTube](https://img.shields.io/badge/YouTube-LucasB25-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCOSm3qOwmnG7XaUfxWS0nuA)
 [![Instagram](https://img.shields.io/badge/Instagram-lucas.btts-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.btts)
